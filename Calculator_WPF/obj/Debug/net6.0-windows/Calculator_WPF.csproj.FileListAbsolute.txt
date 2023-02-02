@@ -4,10 +4,13 @@ C:\Labs\projects\WPF Course\Calculator_WPF\Calculator_WPF\bin\Debug\net6.0-windo
 C:\Labs\projects\WPF Course\Calculator_WPF\Calculator_WPF\bin\Debug\net6.0-windows\Calculator_WPF.dll
 C:\Labs\projects\WPF Course\Calculator_WPF\Calculator_WPF\bin\Debug\net6.0-windows\Calculator_WPF.pdb
 C:\Labs\projects\WPF Course\Calculator_WPF\Calculator_WPF\obj\Debug\net6.0-windows\Calculator_WPF.csproj.AssemblyReference.cache
+C:\Labs\projects\WPF Course\Calculator_WPF\Calculator_WPF\obj\Debug\net6.0-windows\Theme\NumbersButtonTheme.baml
+C:\Labs\projects\WPF Course\Calculator_WPF\Calculator_WPF\obj\Debug\net6.0-windows\Theme\OperatorsButtonTheme.baml
 C:\Labs\projects\WPF Course\Calculator_WPF\Calculator_WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
 C:\Labs\projects\WPF Course\Calculator_WPF\Calculator_WPF\obj\Debug\net6.0-windows\App.g.cs
 C:\Labs\projects\WPF Course\Calculator_WPF\Calculator_WPF\obj\Debug\net6.0-windows\Calculator_WPF_MarkupCompile.cache
 C:\Labs\projects\WPF Course\Calculator_WPF\Calculator_WPF\obj\Debug\net6.0-windows\Calculator_WPF_MarkupCompile.lref
+C:\Labs\projects\WPF Course\Calculator_WPF\Calculator_WPF\obj\Debug\net6.0-windows\App.baml
 C:\Labs\projects\WPF Course\Calculator_WPF\Calculator_WPF\obj\Debug\net6.0-windows\MainWindow.baml
 C:\Labs\projects\WPF Course\Calculator_WPF\Calculator_WPF\obj\Debug\net6.0-windows\Calculator_WPF.g.resources
 C:\Labs\projects\WPF Course\Calculator_WPF\Calculator_WPF\obj\Debug\net6.0-windows\Calculator_WPF.GeneratedMSBuildEditorConfig.editorconfig
@@ -19,3 +22,5 @@ C:\Labs\projects\WPF Course\Calculator_WPF\Calculator_WPF\obj\Debug\net6.0-windo
 C:\Labs\projects\WPF Course\Calculator_WPF\Calculator_WPF\obj\Debug\net6.0-windows\Calculator_WPF.pdb
 C:\Labs\projects\WPF Course\Calculator_WPF\Calculator_WPF\obj\Debug\net6.0-windows\Calculator_WPF.genruntimeconfig.cache
 C:\Labs\projects\WPF Course\Calculator_WPF\Calculator_WPF\obj\Debug\net6.0-windows\ref\Calculator_WPF.dll
+C:\Labs\projects\WPF Course\Calculator_WPF\Calculator_WPF\obj\Debug\net6.0-windows\Theme\ButtonTheme.baml
+C:\Labs\projects\WPF Course\Calculator_WPF\Calculator_WPF\obj\Debug\net6.0-windows\Theme\ResultLabelTheme.baml

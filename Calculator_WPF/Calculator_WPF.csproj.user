@@ -10,5 +10,17 @@
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="Theme\ButtonTheme.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Theme\NumbersButtonTheme.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Theme\OperatorsButtonTheme.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Theme\ResultLabelTheme.xaml">
+      <SubType>Designer</SubType>
+    </Page>
   </ItemGroup>
 </Project>

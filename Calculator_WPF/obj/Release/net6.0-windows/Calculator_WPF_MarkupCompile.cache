@@ -10,11 +10,11 @@ none
 false
 TRACE;RELEASE;NET;NET6_0;NETCOREAPP
 C:\Labs\projects\WPF Course\Calculator_WPF\Calculator_WPF\App.xaml
-11407045341
+5-895594507
 
 51189777330
 194237474483
-MainWindow.xaml;
+MainWindow.xaml;Theme\ButtonTheme.xaml;Theme\NumbersButtonTheme.xaml;Theme\OperatorsButtonTheme.xaml;Theme\ResultLabelTheme.xaml;
 
 True
 

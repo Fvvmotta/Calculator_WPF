@@ -4,6 +4,13 @@
              xmlns:local="clr-namespace:Calculator_WPF"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Theme/ButtonTheme.xaml"/>
+                <ResourceDictionary Source="Theme/NumbersButtonTheme.xaml"/>
+                <ResourceDictionary Source="Theme/OperatorsButtonTheme.xaml"/>
+                <ResourceDictionary Source="Theme/ResultLabelTheme.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
     </Application.Resources>
 </Application>
